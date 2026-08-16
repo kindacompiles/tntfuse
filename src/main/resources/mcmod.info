@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${id}",
+    "name": "${name}",
+    "description": "Shows the remaining fuse time above primed TNT, with a configurable tick offset for Hypixel Bed Wars. Makes no network requests.",
+    "version": "${version}",
+    "mcversion": "${mcVersionStr}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "kindacompiles"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
