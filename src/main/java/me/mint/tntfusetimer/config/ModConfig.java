@@ -117,8 +117,7 @@ public final class ModConfig {
                         + "Takes the median of the last 20 detonations and needs 10 before it writes.\n"
                         + "The result is saved, so it persists across restarts and only warms up once.\n"
                         + "Runs only in a genuinely detected Bed Wars game, never in singleplayer or\n"
-                        + "under forceBedwarsMode, where vanilla TNT would produce meaningless readings.\n"
-                        + "Everything is measured locally; nothing is sent anywhere.");
+                        + "under forceBedwarsMode, where vanilla TNT would produce meaningless readings.");
         if (config.hasChanged()) {
             config.save();
         }
