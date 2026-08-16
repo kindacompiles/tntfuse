@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # TNT Fuse Timer
 
-A client-side Minecraft **1.8.9 Forge** mod that draws the remaining fuse time above every
+A Minecraft **1.8.9 Forge** mod that draws the remaining fuse time above every
 primed TNT entity, with a configurable tick offset applied automatically when it detects a
 Hypixel Bed Wars game.
 
